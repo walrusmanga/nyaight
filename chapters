@@ -1,0 +1,17 @@
+{
+  "title": "Nyaight of the Living Cat",
+  "description": "Night of the Living Dead but with cats",
+  "artist": "Mecha-Roots",
+  "author": "Hawkman",
+  "cover": "https://i.imgur.com/nIapU8t.png",
+  "chapters": {
+    "1": {
+      "title": "Everything is cats",
+      "volume": "1",
+      "groups": {
+        "WALRUS Manga": "/proxy/api/imgur/chapter/dWKgRzA/"
+      },
+      "last_updated": "1621966086"
+    }
+  }
+}
